@@ -23,7 +23,6 @@ function Contact() {
 
   return (
     <>
-      {" "}
       <div className="text-center">
         <h1>Kontakt</h1>
         <h3>Är du missnöjd med prognosen?</h3>
